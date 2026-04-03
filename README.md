@@ -336,4 +336,4 @@ Full API documentation: [docs/API.md](docs/API.md) or `http://localhost:8000/doc
 
 Internal use only. Not for public distribution.
 
-All rights are reserved to the author.
+All rights and copyrights are reserved to Varun Governor.
